@@ -22,7 +22,6 @@ financial_report/
 ├── main.py
 └── requirements.txt
 
-
 ## Como rodar
 pip install -r requirements.txt
 python main.py
