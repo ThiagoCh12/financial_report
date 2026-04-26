@@ -9,6 +9,7 @@ Sistema de análise financeira de transações com exportação CSV.
 - Exporta relatórios em CSV
 
 ## Estrutura
+
 financial_report/
 ├── data/
 │   └── transacoes.json
@@ -20,6 +21,7 @@ financial_report/
 │   └── export_csv.py
 ├── main.py
 └── requirements.txt
+
 
 ## Como rodar
 pip install -r requirements.txt
