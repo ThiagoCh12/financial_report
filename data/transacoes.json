@@ -1,0 +1,138 @@
+[
+    {
+        "id": "pay_001",
+        "customer": "cus_julia",
+        "customerName": "Julia",
+        "billingType": "CREDIT_CARD",
+        "value": 197.99,
+        "dueDate": "2026-06-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_002",
+        "customer": "cus_fernada",
+        "customerName": "Fernanda",
+        "billingType": "CREDIT_CARD",
+        "value": 297.99,
+        "dueDate": "2026-06-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_003",
+        "customer": "cus_fernada",
+        "customerName": "Fernanda",
+        "billingType": "PIX",
+        "value": 297.99,
+        "dueDate": "2026-06-06",
+        "status": "OVERDUE"
+    },
+    {
+        "id": "pay_004",
+        "customer": "cus_bianca",
+        "customerName": "Bianca",
+        "billingType": "CREDIT_CARD",
+        "value": 497.99,
+        "dueDate": "2026-01-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_005",
+        "customer": "cus_bianca",
+        "customerName": "Bianca",
+        "billingType": "BOLETO",
+        "value": 497.99,
+        "dueDate": "2026-02-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_006",
+        "customer": "cus_bianca",
+        "customerName": "Bianca",
+        "billingType": "CREDIT_CARD",
+        "value": 497.99,
+        "dueDate": "2026-03-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_007",
+        "customer": "cus_bianca",
+        "customerName": "Bianca",
+        "billingType": "PIX",
+        "value": 497.99,
+        "dueDate": "2026-04-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_008",
+        "customer": "cus_thiago",
+        "customerName": "Thiago",
+        "billingType": "CREDIT_CARD",
+        "value": 297.99,
+        "dueDate": "2026-05-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_009",
+        "customer": "cus_thiago",
+        "customerName": "Thiago",
+        "billingType": "BOLETO",
+        "value": 297.99,
+        "dueDate": "2026-06-07",
+        "status": "PENDING"
+    },
+    {
+        "id": "pay_010",
+        "customer": "cus_izabelly",
+        "customerName": "Izabelly",
+        "billingType": "CREDIT_CARD",
+        "value": 497.99,
+        "dueDate": "2026-05-07",
+        "status": "RECEIVED"
+    },
+    { 
+        "id": "pay_011",
+        "customer": "cus_izabelly",
+        "customerName": "Izabelly",
+        "billingType": "BOLETO",
+        "value": 497.99,
+        "dueDate": "2026-06-07",
+        "status": "PENDING"
+    },
+    {
+        "id": "pay_012",
+        "customer": "cus_mariana",
+        "customerName": "Mariana",
+        "billingType": "BOLETO",
+        "value": 197.99,
+        "dueDate": "2026-06-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_013",
+        "customer": "cus_mariana",
+        "customerName": "Mariana",
+        "billingType": "BOLETO",
+        "value": 197.99,
+        "dueDate": "2026-05-07",
+        "status": "RECEIVED"
+    },
+    {
+        "id": "pay_014",
+        "customer": "cus_kimberly",
+        "customerName": "Kimberly",
+        "billingType": "BOLETO",
+        "value": 497.99,
+        "dueDate": "2026-06-07",
+        "status": "OVERDUE"
+    },
+    {
+        "id": "pay_015",
+        "customer": "cus_bolzani",
+        "customerName": "Bolzani",
+        "billingType": "PIX",
+        "value": 1997.99,
+        "dueDate": "2026-06-07",
+        "status": "RECEIVED"
+    }
+
+]
