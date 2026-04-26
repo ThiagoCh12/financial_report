@@ -8,20 +8,30 @@ Sistema de análise financeira de transações com exportação CSV.
 - Lista inadimplentes (OVERDUE e PENDING)
 - Exporta relatórios em CSV
 
-## Estrutura
+# Estrutura
 
 financial_report/
+
 ├── data/
+
 │   └── transacoes.json
+
 ├── entities/
+
 │   └── transacao.py
+
 ├── services/
+
 │   ├── load_data.py
+
 │   ├── process_data.py
+
 │   └── export_csv.py
+
 ├── main.py
+
 └── requirements.txt
 
-## Como rodar
+# Como rodar
 pip install -r requirements.txt
 python main.py
